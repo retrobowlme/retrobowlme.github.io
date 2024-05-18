@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Slither.io	</title>
-	<atom:link href="/slitherio/feed" rel="self" type="application/rss+xml" />
-	<link>/slitherio</link>
+	<atom:link href="https://retrobowl.me/slitherio/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/slitherio</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:26:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

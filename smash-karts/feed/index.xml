@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Smash Karts	</title>
-	<atom:link href="/smash-karts/feed" rel="self" type="application/rss+xml" />
-	<link>/smash-karts</link>
+	<atom:link href="https://retrobowl.me/smash-karts/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/smash-karts</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:04:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

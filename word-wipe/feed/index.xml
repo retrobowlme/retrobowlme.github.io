@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Word Wipe	</title>
-	<atom:link href="/word-wipe/feed" rel="self" type="application/rss+xml" />
-	<link>/word-wipe</link>
+	<atom:link href="https://retrobowl.me/word-wipe/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/word-wipe</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:06:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

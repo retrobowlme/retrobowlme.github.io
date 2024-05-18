@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sudoku	</title>
-	<atom:link href="/sudoku/feed" rel="self" type="application/rss+xml" />
-	<link>/sudoku</link>
+	<atom:link href="https://retrobowl.me/sudoku/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/sudoku</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:17:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

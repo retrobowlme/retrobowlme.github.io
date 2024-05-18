@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: LoLBeans	</title>
-	<atom:link href="/lolbeans/feed" rel="self" type="application/rss+xml" />
-	<link>/lolbeans</link>
+	<atom:link href="https://retrobowl.me/lolbeans/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/lolbeans</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:28:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

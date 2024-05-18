@@ -1,0 +1,23 @@
+{
+  "short_name": "Kong",
+  "name": "Free Kong",
+  "description": "Play the classic Donkey Kong game online. No fuss. 100% free.",
+  "icons": [
+	{
+	  "src": "images/donkey-kong-game-icon-192.png",
+	  "type": "image/png",
+	  "sizes": "192x192"
+	},
+  {
+    "src": "images/donkey-kong-game-icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+  ],
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "background_color": "#0e0e0e",
+  "theme_color": "#0e0e0e",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}

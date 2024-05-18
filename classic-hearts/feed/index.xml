@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Classic Hearts	</title>
-	<atom:link href="/classic-hearts/feed" rel="self" type="application/rss+xml" />
-	<link>/classic-hearts</link>
+	<atom:link href="https://retrobowl.me/classic-hearts/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/classic-hearts</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:01:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

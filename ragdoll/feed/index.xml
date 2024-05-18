@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Ragdoll	</title>
-	<atom:link href="/ragdoll/feed" rel="self" type="application/rss+xml" />
-	<link>/ragdoll</link>
+	<atom:link href="https://retrobowl.me/ragdoll/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/ragdoll</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:51:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Waffle Words	</title>
-	<atom:link href="/waffle-words/feed" rel="self" type="application/rss+xml" />
-	<link>/waffle-words</link>
+	<atom:link href="https://retrobowl.me/waffle-words/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/waffle-words</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:08:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

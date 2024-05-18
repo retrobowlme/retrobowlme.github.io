@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Crazy Cars	</title>
-	<atom:link href="/crazy-cars/feed" rel="self" type="application/rss+xml" />
-	<link>/crazy-cars</link>
+	<atom:link href="https://retrobowl.me/crazy-cars/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/crazy-cars</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:21:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

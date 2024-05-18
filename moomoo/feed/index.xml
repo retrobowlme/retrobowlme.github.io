@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: MooMoo	</title>
-	<atom:link href="/moomoo/feed" rel="self" type="application/rss+xml" />
-	<link>/moomoo</link>
+	<atom:link href="https://retrobowl.me/moomoo/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/moomoo</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:09:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

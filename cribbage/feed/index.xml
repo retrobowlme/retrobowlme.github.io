@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cribbage	</title>
-	<atom:link href="/cribbage/feed" rel="self" type="application/rss+xml" />
-	<link>/cribbage</link>
+	<atom:link href="https://retrobowl.me/cribbage/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/cribbage</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:43:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

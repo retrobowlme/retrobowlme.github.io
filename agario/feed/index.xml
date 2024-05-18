@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Agar.io	</title>
-	<atom:link href="/agario/feed" rel="self" type="application/rss+xml" />
-	<link>/agario</link>
+	<atom:link href="https://retrobowl.me/agario/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/agario</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:22:25 +0000</lastBuildDate>
 	<sy:updatePeriod>

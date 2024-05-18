@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Yohoho	</title>
-	<atom:link href="/yohoho/feed" rel="self" type="application/rss+xml" />
-	<link>/yohoho</link>
+	<atom:link href="https://retrobowl.me/yohoho/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/yohoho</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:02:24 +0000</lastBuildDate>
 	<sy:updatePeriod>

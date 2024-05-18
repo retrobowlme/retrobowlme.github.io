@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hole.io	</title>
-	<atom:link href="/hole-io/feed" rel="self" type="application/rss+xml" />
-	<link>/hole-io</link>
+	<atom:link href="https://retrobowl.me/hole-io/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/hole-io</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:13:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Backgammon	</title>
-	<atom:link href="/backgammon-2/feed" rel="self" type="application/rss+xml" />
-	<link>/backgammon-2</link>
+	<atom:link href="https://retrobowl.me/backgammon-2/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/backgammon-2</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:41:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

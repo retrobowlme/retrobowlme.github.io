@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Spades Online	</title>
-	<atom:link href="/spades-online/feed" rel="self" type="application/rss+xml" />
-	<link>/spades-online</link>
+	<atom:link href="https://retrobowl.me/spades-online/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/spades-online</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:24:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

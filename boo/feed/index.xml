@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Boo	</title>
-	<atom:link href="/boo/feed" rel="self" type="application/rss+xml" />
-	<link>/boo</link>
+	<atom:link href="https://retrobowl.me/boo/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/boo</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:22:23 +0000</lastBuildDate>
 	<sy:updatePeriod>

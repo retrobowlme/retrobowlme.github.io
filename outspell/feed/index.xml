@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Outspell	</title>
-	<atom:link href="/outspell/feed" rel="self" type="application/rss+xml" />
-	<link>/outspell</link>
+	<atom:link href="https://retrobowl.me/outspell/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/outspell</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:10:18 +0000</lastBuildDate>
 	<sy:updatePeriod>

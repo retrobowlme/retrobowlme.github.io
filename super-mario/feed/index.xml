@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Super Mario 3.0 World	</title>
-	<atom:link href="/super-mario/feed" rel="self" type="application/rss+xml" />
-	<link>/super-mario</link>
+	<atom:link href="https://retrobowl.me/super-mario/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/super-mario</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:42:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

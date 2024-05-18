@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Google Snake	</title>
-	<atom:link href="/google-snake/feed" rel="self" type="application/rss+xml" />
-	<link>/google-snake</link>
+	<atom:link href="https://retrobowl.me/google-snake/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/google-snake</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:50:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

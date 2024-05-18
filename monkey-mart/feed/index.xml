@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Monkey Mart	</title>
-	<atom:link href="/monkey-mart/feed" rel="self" type="application/rss+xml" />
-	<link>/monkey-mart</link>
+	<atom:link href="https://retrobowl.me/monkey-mart/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/monkey-mart</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:28:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

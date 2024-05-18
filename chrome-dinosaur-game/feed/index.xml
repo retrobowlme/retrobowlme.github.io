@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Chrome Dinosaur Game	</title>
-	<atom:link href="/chrome-dinosaur-game/feed" rel="self" type="application/rss+xml" />
-	<link>/chrome-dinosaur-game</link>
+	<atom:link href="https://retrobowl.me/chrome-dinosaur-game/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/chrome-dinosaur-game</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:36:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

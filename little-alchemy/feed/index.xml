@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Little Alchemy	</title>
-	<atom:link href="/little-alchemy/feed" rel="self" type="application/rss+xml" />
-	<link>/little-alchemy</link>
+	<atom:link href="https://retrobowl.me/little-alchemy/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/little-alchemy</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:43:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

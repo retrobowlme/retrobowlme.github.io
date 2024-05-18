@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Snake.io	</title>
-	<atom:link href="/snake-io/feed" rel="self" type="application/rss+xml" />
-	<link>/snake-io</link>
+	<atom:link href="https://retrobowl.me/snake-io/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/snake-io</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:46:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

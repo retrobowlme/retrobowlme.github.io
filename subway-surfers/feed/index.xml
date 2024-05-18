@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Subway Surfers	</title>
-	<atom:link href="/subway-surfers/feed" rel="self" type="application/rss+xml" />
-	<link>/subway-surfers</link>
+	<atom:link href="https://retrobowl.me/subway-surfers/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/subway-surfers</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:23:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

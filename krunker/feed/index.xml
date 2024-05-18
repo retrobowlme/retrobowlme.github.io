@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Krunker	</title>
-	<atom:link href="/krunker/feed" rel="self" type="application/rss+xml" />
-	<link>/krunker</link>
+	<atom:link href="https://retrobowl.me/krunker/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/krunker</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:33:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

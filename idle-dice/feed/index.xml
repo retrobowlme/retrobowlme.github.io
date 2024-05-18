@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Idle Dice	</title>
-	<atom:link href="/idle-dice/feed" rel="self" type="application/rss+xml" />
-	<link>/idle-dice</link>
+	<atom:link href="https://retrobowl.me/idle-dice/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/idle-dice</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:41:18 +0000</lastBuildDate>
 	<sy:updatePeriod>

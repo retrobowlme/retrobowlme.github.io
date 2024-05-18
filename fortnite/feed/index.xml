@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Fortnite	</title>
-	<atom:link href="/fortnite/feed" rel="self" type="application/rss+xml" />
-	<link>/fortnite</link>
+	<atom:link href="https://retrobowl.me/fortnite/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/fortnite</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:52:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

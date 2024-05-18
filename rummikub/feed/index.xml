@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Rummikub	</title>
-	<atom:link href="/rummikub/feed" rel="self" type="application/rss+xml" />
-	<link>/rummikub</link>
+	<atom:link href="https://retrobowl.me/rummikub/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/rummikub</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:29:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

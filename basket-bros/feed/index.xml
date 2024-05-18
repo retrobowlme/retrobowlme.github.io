@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Basket Bros	</title>
-	<atom:link href="/basket-bros/feed" rel="self" type="application/rss+xml" />
-	<link>/basket-bros</link>
+	<atom:link href="https://retrobowl.me/basket-bros/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/basket-bros</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:11:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

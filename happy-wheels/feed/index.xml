@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Happy Wheels	</title>
-	<atom:link href="/happy-wheels/feed" rel="self" type="application/rss+xml" />
-	<link>/happy-wheels</link>
+	<atom:link href="https://retrobowl.me/happy-wheels/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/happy-wheels</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:42:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

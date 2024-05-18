@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Tic Tac Toe	</title>
-	<atom:link href="/tic-tac-toe/feed" rel="self" type="application/rss+xml" />
-	<link>/tic-tac-toe</link>
+	<atom:link href="https://retrobowl.me/tic-tac-toe/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/tic-tac-toe</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:19:49 +0000</lastBuildDate>
 	<sy:updatePeriod>

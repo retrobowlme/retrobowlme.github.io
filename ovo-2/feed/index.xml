@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: OvO 2	</title>
-	<atom:link href="/ovo-2/feed" rel="self" type="application/rss+xml" />
-	<link>/ovo-2</link>
+	<atom:link href="https://retrobowl.me/ovo-2/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/ovo-2</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 09:17:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

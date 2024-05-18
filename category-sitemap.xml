@@ -1,123 +1,123 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://retrobowl.me/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/category/action-games</loc>
+		<loc>https://retrobowl.me/category/action-games</loc>
 		<lastmod>2024-03-04T09:17:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/adventure-games</loc>
+		<loc>https://retrobowl.me/category/adventure-games</loc>
 		<lastmod>2024-03-04T09:24:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/art-games</loc>
+		<loc>https://retrobowl.me/category/art-games</loc>
 		<lastmod>2024-03-04T05:16:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/assets</loc>
+		<loc>https://retrobowl.me/category/assets</loc>
 		<lastmod>2024-03-04T08:22:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/board-games</loc>
+		<loc>https://retrobowl.me/category/board-games</loc>
 		<lastmod>2024-03-04T09:30:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/card-games</loc>
+		<loc>https://retrobowl.me/category/card-games</loc>
 		<lastmod>2024-03-04T09:16:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/changelog</loc>
+		<loc>https://retrobowl.me/category/changelog</loc>
 		<lastmod>2024-03-04T08:22:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/clicker-games</loc>
+		<loc>https://retrobowl.me/category/clicker-games</loc>
 		<lastmod>2024-03-04T09:18:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/endless-runner</loc>
+		<loc>https://retrobowl.me/category/endless-runner</loc>
 		<lastmod>2024-03-04T09:22:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/faq</loc>
+		<loc>https://retrobowl.me/category/faq</loc>
 		<lastmod>2024-03-04T09:38:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/football-games</loc>
+		<loc>https://retrobowl.me/category/football-games</loc>
 		<lastmod>2024-03-07T04:39:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/games</loc>
+		<loc>https://retrobowl.me/category/games</loc>
 		<lastmod>2024-03-04T09:35:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/horror-games</loc>
+		<loc>https://retrobowl.me/category/horror-games</loc>
 		<lastmod>2024-03-04T09:02:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/multiplayer-games</loc>
+		<loc>https://retrobowl.me/category/multiplayer-games</loc>
 		<lastmod>2024-03-04T08:40:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/music-games</loc>
+		<loc>https://retrobowl.me/category/music-games</loc>
 		<lastmod>2024-03-04T08:31:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/pet-games</loc>
+		<loc>https://retrobowl.me/category/pet-games</loc>
 		<lastmod>2024-03-04T08:04:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/puzzle-games</loc>
+		<loc>https://retrobowl.me/category/puzzle-games</loc>
 		<lastmod>2024-03-04T09:33:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/racing-games</loc>
+		<loc>https://retrobowl.me/category/racing-games</loc>
 		<lastmod>2024-03-04T08:33:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/restaurant-games</loc>
+		<loc>https://retrobowl.me/category/restaurant-games</loc>
 		<lastmod>2024-03-04T09:10:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/retro-games</loc>
+		<loc>https://retrobowl.me/category/retro-games</loc>
 		<lastmod>2024-03-04T09:38:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/science-games</loc>
+		<loc>https://retrobowl.me/category/science-games</loc>
 		<lastmod>2024-03-04T07:43:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/shooting-games</loc>
+		<loc>https://retrobowl.me/category/shooting-games</loc>
 		<lastmod>2024-03-04T08:33:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/sport-games</loc>
+		<loc>https://retrobowl.me/category/sport-games</loc>
 		<lastmod>2024-03-04T08:54:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/strategy-games</loc>
+		<loc>https://retrobowl.me/category/strategy-games</loc>
 		<lastmod>2024-03-04T09:39:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/tutorials</loc>
+		<loc>https://retrobowl.me/category/tutorials</loc>
 		<lastmod>2024-03-04T09:33:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/two-player-games</loc>
+		<loc>https://retrobowl.me/category/two-player-games</loc>
 		<lastmod>2024-03-04T07:19:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/unblocked-games</loc>
+		<loc>https://retrobowl.me/category/unblocked-games</loc>
 		<lastmod>2024-03-04T09:12:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/uncategorized</loc>
+		<loc>https://retrobowl.me/category/uncategorized</loc>
 		<lastmod>2024-03-04T06:09:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/video</loc>
+		<loc>https://retrobowl.me/category/video</loc>
 		<lastmod>2024-03-04T08:36:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/category/wiki</loc>
+		<loc>https://retrobowl.me/category/wiki</loc>
 		<lastmod>2024-03-04T09:39:45+00:00</lastmod>
 	</url>
 </urlset>

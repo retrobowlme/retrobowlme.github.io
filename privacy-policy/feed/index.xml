@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed" rel="self" type="application/rss+xml" />
-	<link>/privacy-policy</link>
+	<atom:link href="https://retrobowl.me/privacy-policy/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/privacy-policy</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Thu, 24 Aug 2023 00:58:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

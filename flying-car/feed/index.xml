@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Flying Car	</title>
-	<atom:link href="/flying-car/feed" rel="self" type="application/rss+xml" />
-	<link>/flying-car</link>
+	<atom:link href="https://retrobowl.me/flying-car/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/flying-car</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:56:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Santa Tracker	</title>
-	<atom:link href="/santa-tracker/feed" rel="self" type="application/rss+xml" />
-	<link>/santa-tracker</link>
+	<atom:link href="https://retrobowl.me/santa-tracker/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/santa-tracker</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:31:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

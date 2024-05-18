@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: FMX Team	</title>
-	<atom:link href="/fmx-team/feed" rel="self" type="application/rss+xml" />
-	<link>/fmx-team</link>
+	<atom:link href="https://retrobowl.me/fmx-team/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/fmx-team</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:13:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

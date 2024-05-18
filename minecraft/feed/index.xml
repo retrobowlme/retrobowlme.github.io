@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Minecraft	</title>
-	<atom:link href="/minecraft/feed" rel="self" type="application/rss+xml" />
-	<link>/minecraft</link>
+	<atom:link href="https://retrobowl.me/minecraft/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/minecraft</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:34:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

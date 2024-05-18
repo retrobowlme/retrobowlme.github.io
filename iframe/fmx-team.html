@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<style id="" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://retrobowl.me/fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://retrobowl.me/fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf) format('truetype');
+}</style> 
+<style>body {
+            background-color: #5B0E98;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #playButton {
+            display: block;
+            width: 150px;
+            height: 50px;
+            background-color: black;
+            color: white;
+            text-align: center;
+            line-height: 50px;
+            cursor: pointer;
+            transition: background-color 0.3s, border-radius 0.3s;
+            border-radius: 8px;
+            font-family: 'Open Sans', sans-serif; /* Google Fonts usage */
+            font-weight: 600; /* Font weight */
+            font-size: 16px; /* Font size */
+            margin-bottom: 20px;
+        }
+
+        #playButton:hover {
+            background-color: darkgray;
+            border-radius: 20px;
+        }
+
+        #xmlContent {
+            display: none;
+            width: 100%;
+            height: 80vh;
+        }
+
+        #xmlIframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        #footer {
+            color: white;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 600;
+            font-size: 14px;
+        }</style>
+</head>
+<body>
+<div id="xmlContent">
+<iframe id="xmlIframe"></iframe>
+</div>
+<div id="playButton">CLICK TO PLAY*</div>
+<div id="footer">Play at retrobowl.me</div>
+<script>var playButton = document.getElementById("playButton");
+        var xmlContent = document.getElementById("xmlContent");
+        var xmlIframe = document.getElementById("xmlIframe");
+
+        playButton.addEventListener("click", function() {
+            playButton.style.display = "none";
+            document.body.style.backgroundColor = "white";
+            xmlContent.style.display = "block";
+            $.ajax({
+                type: "GET",
+                url: "https://cdn.jsdelivr.net/gh/classroom-swf/google-com@main/fmx-teamNDcx.xml",
+                dataType: "xml",
+                success: function(xml) {
+                    var xmlString = new XMLSerializer().serializeToString(xml);
+                    xmlIframe.contentWindow.document.open();
+                    xmlIframe.contentWindow.document.write(xmlString);
+                    xmlIframe.contentWindow.document.close();
+                    xmlIframe.style.display = "block";
+                },
+                error: function(xhr, status, error) {
+                    console.error(error);
+                }
+            });
+        });</script>
+</body>
+</html>

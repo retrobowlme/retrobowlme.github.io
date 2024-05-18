@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Skribblio	</title>
-	<atom:link href="/skribblio/feed" rel="self" type="application/rss+xml" />
-	<link>/skribblio</link>
+	<atom:link href="https://retrobowl.me/skribblio/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/skribblio</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:02:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

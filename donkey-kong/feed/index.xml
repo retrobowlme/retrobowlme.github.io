@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Donkey Kong	</title>
-	<atom:link href="/donkey-kong/feed" rel="self" type="application/rss+xml" />
-	<link>/donkey-kong</link>
+	<atom:link href="https://retrobowl.me/donkey-kong/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/donkey-kong</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 09:39:24 +0000</lastBuildDate>
 	<sy:updatePeriod>

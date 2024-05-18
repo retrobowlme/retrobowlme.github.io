@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Eggy Car	</title>
-	<atom:link href="/eggy-car/feed" rel="self" type="application/rss+xml" />
-	<link>/eggy-car</link>
+	<atom:link href="https://retrobowl.me/eggy-car/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/eggy-car</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:50:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Introduction to the Galaga Game	</title>
-	<atom:link href="/galaga-game/feed" rel="self" type="application/rss+xml" />
-	<link>/galaga-game</link>
+	<atom:link href="https://retrobowl.me/galaga-game/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/galaga-game</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 09:12:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

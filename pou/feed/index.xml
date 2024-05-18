@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Pou	</title>
-	<atom:link href="/pou/feed" rel="self" type="application/rss+xml" />
-	<link>/pou</link>
+	<atom:link href="https://retrobowl.me/pou/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/pou</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:09:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

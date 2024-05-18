@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: 3 Slices	</title>
-	<atom:link href="/3-slices/feed" rel="self" type="application/rss+xml" />
-	<link>/3-slices</link>
+	<atom:link href="https://retrobowl.me/3-slices/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/3-slices</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:28:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

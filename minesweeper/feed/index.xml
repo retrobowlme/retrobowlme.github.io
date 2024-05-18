@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Minesweeper	</title>
-	<atom:link href="/minesweeper/feed" rel="self" type="application/rss+xml" />
-	<link>/minesweeper</link>
+	<atom:link href="https://retrobowl.me/minesweeper/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/minesweeper</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 05:45:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

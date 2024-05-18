@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Coding Archives - Retro Bowl Unblocked Game</title>
-	<atom:link href="/tag/coding/feed" rel="self" type="application/rss+xml" />
-	<link>/tag/coding</link>
+	<atom:link href="https://retrobowl.me/tag/coding/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/tag/coding</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 07:30:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/08/cropped-fav-32x32.png</url>
+	<url>https://retrobowl.me/wp-content/uploads/2023/08/cropped-fav-32x32.png</url>
 	<title>Coding Archives - Retro Bowl Unblocked Game</title>
-	<link>/tag/coding</link>
+	<link>https://retrobowl.me/tag/coding</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Github Retro Bowl: A Wiki</title>
-		<link>/github-retro-bowl</link>
+		<link>https://retrobowl.me/github-retro-bowl</link>
 		
 		<dc:creator><![CDATA[New Star Games]]></dc:creator>
 		<pubDate>Sun, 18 Jun 2023 07:38:43 +0000</pubDate>
@@ -38,31 +38,31 @@
 		<category><![CDATA[github]]></category>
 		<category><![CDATA[programming]]></category>
 		<category><![CDATA[retro bowl]]></category>
-		<guid isPermaLink="false">/blog/?p=1164</guid>
+		<guid isPermaLink="false">https://retrobowl.me/blog/?p=1164</guid>
 
 					<description><![CDATA[<p>Github Retro Bowl: A Wiki Github is more than just a version control system and code hosting platform for software development. It&#8217;s a powerful tool that allows developers to keep track of changes and collaborate with others. And now, Github has introduced an exciting new feature called Github Retro Bowl. Dive into the past and [&#8230;]</p>
-<p>The post <a href="/github-retro-bowl">Github Retro Bowl: A Wiki</a> appeared first on <a href="/">Retro Bowl Unblocked Game</a>.</p>
+<p>The post <a href="https://retrobowl.me/github-retro-bowl">Github Retro Bowl: A Wiki</a> appeared first on <a href="https://retrobowl.me/">Retro Bowl Unblocked Game</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img fetchpriority="high" decoding="async" width="1280" height="720" src="/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl.png" class="attachment-full size-full wp-post-image" alt="" style="float:right; margin:0 0 10px 10px;" srcset="/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl.png 1280w, /wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-300x169.png 300w, /wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-1024x576.png 1024w, /wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-768x432.png 768w, /wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-750x422.png 750w, /wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-1140x641.png 1140w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Github Retro Bowl: A Wiki</p>
+										<content:encoded><![CDATA[<img fetchpriority="high" decoding="async" width="1280" height="720" src="https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl.png" class="attachment-full size-full wp-post-image" alt="" style="float:right; margin:0 0 10px 10px;" srcset="https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl.png 1280w, https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-300x169.png 300w, https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-1024x576.png 1024w, https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-768x432.png 768w, https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-750x422.png 750w, https://retrobowl.me/wp-content/uploads/2023/06/thumbsretrobowl1687073908.7218168-github_retro_bowl-1140x641.png 1140w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>Github Retro Bowl: A Wiki</p>
 <p>Github is more than just a version control system and code hosting platform for software development. It&#8217;s a powerful tool that allows developers to keep track of changes and collaborate with others. And now, Github has introduced an exciting new feature called Github Retro Bowl. Dive into the past and explore the code from previous versions of your projects with this game-changing addition.</p>
 <h2>What is Github Retro Bowl?</h2>
 <p>Github Retro Bowl takes you on a journey through time, allowing you to explore and experiment with the code from past versions of your projects. By going back in time, you can gain valuable insights into how your code has evolved and identify any bugs or issues that may have appeared in the past.</p>
 <p>This innovative feature works by taking snapshots of the code in your project at regular intervals. These snapshots are then stored in a virtual collection called the &#8220;retro bowl.&#8221; By diving into the retro bowl, you can explore the contents and experiment with the code from different points in time.</p>
-<p><img decoding="async" src="/blog/wp-content/uploads/2023/06/thumbsretrobowl1687073913.2368438-github_retro_bowl.png" alt="GitHub Retro Bowl" /></p>
+<p><img decoding="async" src="https://retrobowl.me/blog/wp-content/uploads/2023/06/thumbsretrobowl1687073913.2368438-github_retro_bowl.png" alt="GitHub Retro Bowl" /></p>
 <h2>How Does Github Retro Bowl Work?</h2>
 <p>Github Retro Bowl captures snapshots of your code at regular intervals and stores them in the retro bowl. By selecting a snapshot, you can view the code as it was at that specific point in time. You can then experiment with the code, make changes, and even commit those changes by creating a new snapshot in the retro bowl.</p>
 <p>Comparing snapshots is also made easy with Github Retro Bowl. You can identify the differences between different versions of your code, making it simple to spot any changes or issues that might have occurred.</p>
 <h2>Benefits of Github Retro Bowl</h2>
 <p>Github Retro Bowl offers numerous benefits to developers. It provides a fantastic opportunity to explore and experiment with the code from past versions of your projects. By understanding how your code has changed over time, you can better comprehend its evolution and learn from past mistakes.</p>
 <p>Collaboration is also enhanced with Github Retro Bowl. By viewing the code from different points in time, developers can easily discuss and collaborate on the project, making teamwork more effective.</p>
-<p><img decoding="async" src="/blog/wp-content/uploads/2023/06/thumbsretrobowl1687073917.713903-github_retro_bowl.png" alt="GitHub Retro Bowl" /></p>
+<p><img decoding="async" src="https://retrobowl.me/blog/wp-content/uploads/2023/06/thumbsretrobowl1687073917.713903-github_retro_bowl.png" alt="GitHub Retro Bowl" /></p>
 <h2>How to Use Github Retro Bowl</h2>
 <p>Using Github Retro Bowl is a breeze. Simply select a snapshot, and you&#8217;ll be able to view the code from that specific moment in time. Experiment with the code, make changes, and if you&#8217;re satisfied, commit those changes by creating a new snapshot in the retro bowl.</p>
 <p>Comparing snapshots is also a powerful feature. It allows you to easily spot changes and identify any bugs or issues that might have occurred in the past.</p>
 <h2>Conclusion</h2>
 <p>Github Retro Bowl is an incredible new feature that adds a whole new dimension to the Github experience. It allows developers to explore the code from past versions of their projects and gain valuable insights into its evolution. By using Github Retro Bowl, you can collaborate more effectively, learn from the past, and maximize the potential of your projects.</p>
-<p>Thanks for reading! Start your journey into the past with <a href="/">Retro Bowl Unblocked Game</a>.</p>
-<p>The post <a href="/github-retro-bowl">Github Retro Bowl: A Wiki</a> appeared first on <a href="/">Retro Bowl Unblocked Game</a>.</p>
+<p>Thanks for reading! Start your journey into the past with <a href="https://retrobowl.me/">Retro Bowl Unblocked Game</a>.</p>
+<p>The post <a href="https://retrobowl.me/github-retro-bowl">Github Retro Bowl: A Wiki</a> appeared first on <a href="https://retrobowl.me/">Retro Bowl Unblocked Game</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Uno	</title>
-	<atom:link href="/uno/feed" rel="self" type="application/rss+xml" />
-	<link>/uno</link>
+	<atom:link href="https://retrobowl.me/uno/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/uno</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 06:06:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

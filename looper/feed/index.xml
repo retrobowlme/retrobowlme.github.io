@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Looper	</title>
-	<atom:link href="/looper/feed" rel="self" type="application/rss+xml" />
-	<link>/looper</link>
+	<atom:link href="https://retrobowl.me/looper/feed" rel="self" type="application/rss+xml" />
+	<link>https://retrobowl.me/looper</link>
 	<description>Play Unblocked &#38; Free</description>
 	<lastBuildDate>Mon, 04 Mar 2024 08:44:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
